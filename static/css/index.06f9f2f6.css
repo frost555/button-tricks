@@ -1,0 +1,1 @@
+body{height:100%;margin:0;font-family:Inter,Avenir,Helvetica,Arial,sans-serif}html{height:100%}#root{width:100%;height:100%}.wrapper{flex-direction:column;width:100%;height:100%;display:flex}.content{flex:1;padding:0 15px}.button-container{text-align:center;width:100%;position:fixed;left:0;transform:translateY(-100%)}.button{background-color:#add8e6;width:100%;height:40px}
